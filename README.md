@@ -32,11 +32,6 @@ Frontend Developer • React Enthusiast
 <a href="https://github.com/srivastava-s" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
-
-<a href="https://leetcode.com/u/shashank_srivastava/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
 </p>
 ---
 
