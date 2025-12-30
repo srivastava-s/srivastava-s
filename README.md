@@ -40,18 +40,18 @@ Frontend Developer • React Enthusiast
 
 <p align="center">
 
-<!-- Frontend -->
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite,html,css" />
+<!-- Languages -->
+<img src="https://skillicons.dev/icons?i=c,cpp,python,sqlite,mongodb,mysql" />
 
 <br/>
 
-<!-- Backend -->
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<!-- Backend / Cloud -->
+<img src="https://skillicons.dev/icons?i=express,gcp,aws" />
 
 <br/>
 
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,linux" />
+<!-- DevOps & Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,discord" />
 
 </p>
 
