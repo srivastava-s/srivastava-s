@@ -2,7 +2,7 @@
 <p align="center">
 Frontend Developer • React Enthusiast
 <br/>
-<a href="https://front-end-profile-three.vercel.app/" target="_blank"><b>🌐 Portfolio Website</b></a>
+<a href="https://front-end-profile-three.vercel.app/" target="_blank"><b>Portfolio</b></a>
 </p>
 
 ---
