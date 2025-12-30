@@ -5,8 +5,6 @@ Frontend Developer • React Enthusiast
 <a href="https://front-end-profile-three.vercel.app/" target="_blank"><b>Portfolio</b></a>
 </p>
 
----
-
 ## 🧩 About Me
 
 - 🚀 I’m currently working on — Building frontend projects focused on React, UI engineering, performance, and clean user-centric interfaces.  
@@ -14,8 +12,6 @@ Frontend Developer • React Enthusiast
 - 🌱 I’m currently learning — Frontend performance optimization, UI animation systems, cloud integrations, and real-world product engineering practices.  
 - 💬 Ask me about — JavaScript fundamentals, React UI patterns, design-to-development workflows, and problem-solving on the frontend.  
 - ⚡ Fun fact — I enjoy experimenting with creative UI ideas, exploring interactive web experiences, and improving my craft through continuous learning.  
-
----
 
 ## Connect With Me
 
@@ -33,7 +29,6 @@ Frontend Developer • React Enthusiast
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 </p>
----
 
 ## Tech Stack
 
@@ -58,7 +53,6 @@ Frontend Developer • React Enthusiast
 <img src="https://skillicons.dev/icons?i=figma,discord" />
 
 </p>
----
 
 ## 🎮 Contribution Graph 
 
@@ -66,7 +60,6 @@ Frontend Developer • React Enthusiast
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastava-s&theme=react-dark&hide_border=false&area=true"/>
 </p>
 
----
 
 ## 🚀 Portfolio
 
