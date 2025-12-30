@@ -40,21 +40,25 @@ Frontend Developer • React Enthusiast
 
 <p align="center">
 
-<!-- Languages -->
-<img src="https://skillicons.dev/icons?i=c,cpp,python,sqlite,mongodb,mysql" />
+<!-- 🚀 Frontend -->
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite,html,css" />
 
 <br/>
 
-<!-- Backend / Cloud -->
-<img src="https://skillicons.dev/icons?i=express,gcp,aws" />
+<!-- 🧩 Backend & Databases -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,python,c,cpp" />
 
 <br/>
 
-<!-- DevOps & Tools -->
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,discord" />
+<!-- ☁️ Cloud & DevOps -->
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,gitlab,bitbucket,linux,vercel" />
+
+<br/>
+
+<!-- 🛠️ Tools -->
+<img src="https://skillicons.dev/icons?i=figma,discord" />
 
 </p>
-
 ---
 
 ## 🎮 Contribution Graph 
