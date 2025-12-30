@@ -1,6 +1,6 @@
 <h2 align="center">👋 Hey, I'm <b>Shashank Kumar Srivastava</b></h2>
 <p align="center">
-Frontend Developer • UI Engineer • React Enthusiast
+Frontend Developer • React Enthusiast
 <br/>
 <a href="https://front-end-profile-three.vercel.app/" target="_blank"><b>🌐 Portfolio Website</b></a>
 </p>
