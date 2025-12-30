@@ -59,28 +59,7 @@ Frontend Developer • UI Engineer • React Enthusiast
 
 ---
 
-## 📊 GitHub Stats (Animated)
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=srivastava-s&show_icons=true&theme=react&hide_border=false&count_private=true" height="165px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=srivastava-s&theme=react&hide_border=false" height="165px"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastava-s&layout=compact&theme=react&hide_border=false"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=srivastava-s&theme=onedark&no-frame=false&no-bg=true&margin-w=8"/>
-</p>
-
----
-
-## 🎮 Contribution Graph (Animated)
+## 🎮 Contribution Graph 
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastava-s&theme=react-dark&hide_border=false&area=true"/>
