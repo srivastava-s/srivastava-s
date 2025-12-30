@@ -17,7 +17,7 @@ Frontend Developer • UI Engineer • React Enthusiast
 
 ---
 
-## 🌍 Socials
+## Socials
 
 <p align="left">
 <a href="https://www.linkedin.com/in/shashank-kumar-srivastava-/" target="_blank">
@@ -36,9 +36,7 @@ Frontend Developer • UI Engineer • React Enthusiast
 
 ---
 
-## 🧠 Tech Stack
-
-## 🧠 Tech Stack
+## Tech Stack
 
 <p align="center">
 
