@@ -38,22 +38,22 @@ Frontend Developer • UI Engineer • React Enthusiast
 
 ## 🧠 Tech Stack
 
-<p align="left">
+## 🧠 Tech Stack
 
-<img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=000"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD92F"/>
+<p align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-2862E9?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-303030?style=for-the-badge&logo=express&logoColor=white"/>
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,vite,html,css" />
 
-<img src="https://img.shields.io/badge/MongoDB-4FAA41?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
+<br/>
+
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+
+<br/>
+
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,linux" />
 
 </p>
 
